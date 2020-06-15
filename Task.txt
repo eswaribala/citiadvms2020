@@ -1,0 +1,40 @@
+complete this
+Trading API
+models, repo, service and controllers
+
+Trader,TradeBooking,Bank,Desk
+
+CustomerAPI
+
+
+TradeBooking
+traderId
+fromCustomerId
+toCustomerId
+tradeId,
+date
+price
+qty
+
+Trader
+traderId,
+name,
+bankId
+deskId
+
+Bank
+BankId
+BankName
+
+
+Desk
+DeskId
+name
+address
+
+
+
+
+
+
+
